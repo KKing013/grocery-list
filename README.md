@@ -1,7 +1,6 @@
 # grocery list
-React application eshop
+ React version of classic Javascript project Grocery List
 
-    React version of classic Javascript project Grocery List
     Add items,edit,delete items and clear all items in list
     All data is persisted in browser local storage
     
